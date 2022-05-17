@@ -23,8 +23,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
     
-   ![github contribution grid snake animation](https://raw.githubusercontent.com/Alsants/Alsants/output/github-contribution-grid-snake.svg)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Alsants/Alsants/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Alsants/Alsants/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
     
 </div>
