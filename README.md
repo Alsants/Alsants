@@ -27,5 +27,4 @@
     
 </div>
  
- ![Snake animation](https://github.com/Alsants/Alsants/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/Alsants/Alsants.git/blob/output/github-contribution-grid-snake.svg)
