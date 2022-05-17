@@ -24,7 +24,7 @@
         
 # snk 
    
-![](https://github.com/Alsants/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Alsants/snk/Alsants/output/github-contribution-grid-snake.svg)
 
 
   </div>
