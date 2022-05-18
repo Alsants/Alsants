@@ -4,13 +4,15 @@
 - 🌱 cursando  ADS (Analise e Desenvolvimento de Sistemas)
 - 😄 Pronouns: Ele/Dele
 
-<div align="">   
+<br><br>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Alsants&show_icons=true&theme=dracula&count_private=true)
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsants&layout=compact&langs_count=7&theme=dracula"/>  
-  
-</div>
-  
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=alsants&show_icons=true&theme=vision-friendly-dark" alt="alsants's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsants&layout=compact&theme=vision-friendly-dark" alt="alsants's most languages"/>
+</p>
+
  ## Tecnologias Estudadas:
   
   <div style="display: inline_block"><br>
