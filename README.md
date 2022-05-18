@@ -4,8 +4,6 @@
 - 🌱 cursando  ADS (Analise e Desenvolvimento de Sistemas)
 - 😄 Pronouns: Ele/Dele
 
-<br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
