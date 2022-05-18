@@ -4,14 +4,11 @@
 - 🌱 cursando  ADS (Analise e Desenvolvimento de Sistemas)
 - 😄 Pronouns: Ele/Dele
 
-<!-- <div align=""> -->
-<!--   <a href="https://github.com/Alsants"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alsants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsants&layout=compact&langs_count=7&theme=dracula"/> -->
+<div align="">  
+  <a href="https://github.com/Alsants"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alsants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsants&layout=compact&langs_count=7&theme=dracula"/> 
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=gui-loko&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/gui-loko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
 
 </div>
   <div style="display: inline_block"><br>
