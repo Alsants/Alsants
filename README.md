@@ -24,6 +24,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/alsants//blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Alsants/Alsants/commit/9316d026f86f29d22e9d9042e85e9eba5ca770e0/blob/output/github-contribution-grid-snake.svg)
 
   </div>
