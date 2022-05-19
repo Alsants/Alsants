@@ -10,9 +10,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=alsants&show_icons=true&theme=vision-friendly-dark" alt="alsants's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsants&layout=compact&theme=vision-friendly-dark" alt="alsants's most languages"/>
 </p>
-<a href="https://rubberduckdebugging.com/">
-  <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
-</a>
+
 
  ## Tecnologias Estudadas:
   
@@ -29,3 +27,6 @@
  
 
   </div>
+  <a href="https://rubberduckdebugging.com/">
+  <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+</a>
