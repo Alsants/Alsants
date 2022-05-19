@@ -28,5 +28,6 @@
 
   </div>
   <a href="https://rubberduckdebugging.com/">
-  <img align="right" width="125px" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
+  <img align="left" width="33%" src="https://media3.giphy.com/media/rtRflhLVzbNWU/giphy.gif">
 </a>
+  <img align="right" width="33%" src="https://octodex.github.com/images/Professortocat_v2.png">
